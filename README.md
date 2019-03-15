@@ -10,11 +10,11 @@ Chatty App is an instant messaging app for talking with your friends in real tim
 
 ## Quick Look
 !["Main Page"](https://github.com/darrenpicard25/ChattyApp/blob/master/images/snapshots/firstlook.png?raw=true)
-Talk to all users on the server. Keeps track of how many people are present
+- Talk to all users on the server. Keeps track of how many people are present
 !["Posting Images"](https://github.com/darrenpicard25/ChattyApp/blob/master/images/snapshots/addingPictures.png?raw=true)
-Can add jpg, gif and png images to chat
+- Can add jpg, gif and png images to chat
 !["Individual Color for users"](https://github.com/darrenpicard25/ChattyApp/blob/master/images/snapshots/individualLooks.png?raw=true)
-Users have unique colors to display
+- Users have unique colors to display
 
 ## Dependencies
 
